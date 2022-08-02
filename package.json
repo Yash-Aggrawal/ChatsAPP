@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Tanya Rajhans",
+  "author": "Yash Agrawal",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
